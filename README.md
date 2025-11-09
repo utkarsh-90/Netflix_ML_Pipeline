@@ -1,4 +1,4 @@
-# 🎬 Netflix Content Engagement Prediction – End-to-End ML Pipeline
+# 🎬 Netflix Content Engagement Prediction - End-to-End ML Pipeline
 
 **Author:** Utkarsh Panchal  
 **Platform:** Google Colab + AWS SageMaker  
